@@ -1,0 +1,49 @@
+html, body{
+    background-color: #ff86b4;
+    margin: 0;
+    padding: 0;
+    
+}
+.main{
+    max-width: 600px;
+    margin: auto;
+    position: relative;
+    top: 10%;
+    left: 15%;
+}
+.box {
+    top: 40px;
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 3%;
+    display: flex;
+    
+    
+}
+.image {
+    max-width: 500px;
+    display: inline;
+    display: flex;
+}
+.btn-1{
+    position: relative;
+    bottom: 2%;
+    left: 38%;
+    display: flex;
+    
+}
+.history{
+    text-decoration: none;
+    color: #ffffff;
+}
+.box2{
+    background-color: #ffffff;
+    margin: 0px;
+    max-width: 200px;
+    position: relative;
+    top: 450px;
+    left: 800;
+    
+}
+
